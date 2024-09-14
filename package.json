@@ -1,0 +1,20 @@
+{
+  "name": "3-projeto-com-node-e-postgresql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tsx watch src/server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "D": "^1.0.0",
+    "typescript": "^5.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.4",
+    "tsx": "^4.19.1"
+  }
+}
